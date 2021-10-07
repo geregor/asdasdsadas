@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+body {
+    background-image: url("../../videos/pojarka.png");
+    background-size: 125px;
+    background-color: ghostwhite;
+    background-position: center;
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 0
+}
+
+.window {
+    margin: 0 auto;
+    max-width: 1400px;
+    height: 100vh;
+    background-color: floralwhite;
+
+}
+
+.buttonaaa {
+    margin: 0 auto;
+    height: 400px;
+    width: 250px;
+}
